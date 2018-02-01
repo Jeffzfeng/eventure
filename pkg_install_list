@@ -1,3 +1,5 @@
 List of packages/dependancies
 psql 9.6.5 - pre-included in c9
-
+flask - sudo pip install flask
+flask-SQLalchemy - sudo pip install Flask-SQLAlchemy
+psycopg2 - sudo pip install psycopg2
